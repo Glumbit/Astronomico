@@ -79,10 +79,189 @@
 
 	<symbol id="ariesStars" viewBox="0 0 210 87" xmlns="http://www.w3.org/2000/svg">
 		<g>
-			<path d="M6 5L162.051 22.1975L206 83.3439" stroke="#E0BC75" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+			<path d="M6 5L162.051 22.1975L206 83.3439" stroke="#E0BC75" stroke-width="5"  stroke-linejoin="round"/>
 			<circle cx="162" cy="23" r="8.5" fill="#E0BC75" stroke="#FCFDFE" stroke-width="3"/>
 			<circle cx="205" cy="82" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
 			<circle cx="5" cy="5" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+		</g>
+	</symbol>
+
+	<symbol id="taurusStars" viewBox="0 0 134 93" xmlns="http://www.w3.org/2000/svg">
+		<g>
+			<path d="M25 7.5L59 27.5L76 47M76 47L93.5 65L113.5 79.5L129 88M76 47L43.5 51.5L11.5 35" stroke="#E0BC75" stroke-width="5" />
+			<circle cx="59" cy="28" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="91" cy="62" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="112" cy="77" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="129" cy="88" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="28" cy="10" r="8.5" fill="#E0BC75" stroke="#FCFDFE" stroke-width="3"/>
+			<circle cx="10" cy="33" r="8.5" fill="#E0BC75" stroke="#FCFDFE" stroke-width="3"/>
+			<circle cx="43" cy="52" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="75" cy="47" r="8.5" fill="#E0BC75" stroke="#FCFDFE" stroke-width="3"/>
+		</g>
+	</symbol>
+
+	<symbol id="geminiStars" viewBox="0 0 181 136" xmlns="http://www.w3.org/2000/svg">
+		<g>
+			<path d="M32 29.5L68.5 33.5M68.5 33.5L90 4M68.5 33.5L136.5 50.5M68.5 33.5L40.5 60L26 66.5M136.5 50.5L176 52M136.5 50.5L171 72.5M26 66.5L8.5 52M26 66.5L16 89M26 66.5L63 102.5L91.5 95.5M91.5 95.5L139 105.5M91.5 95.5L141.5 132" stroke="#E0BC75" stroke-width="5" />
+			<circle cx="34" cy="28" r="8.5" fill="#E0BC75" stroke="#FCFDFE" stroke-width="3"/>
+			<circle cx="10" cy="54" r="8.5" fill="#E0BC75" stroke="#FCFDFE" stroke-width="3"/>
+			<circle cx="136" cy="50" r="8.5" fill="#E0BC75" stroke="#FCFDFE" stroke-width="3"/>
+			<circle cx="16" cy="89" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="26" cy="67" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="42" cy="59" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="68" cy="33" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="89" cy="5" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="176" cy="52" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="171" cy="73" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="140" cy="105" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="141" cy="131" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="92" cy="96" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="63" cy="103" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+		</g>
+	</symbol>
+
+	<symbol id="cancerStars" viewBox="0 0 166 96" xmlns="http://www.w3.org/2000/svg">
+		<g>
+			<path d="M36 5L69 47M69 47L97.5 72L160.5 90.5M69 47L41 56H5" stroke="#E0BC75" stroke-width="5" />
+			<circle cx="5" cy="56" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="41" cy="56" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="36" cy="5" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="97" cy="71" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="161" cy="91" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="69" cy="46" r="8.5" fill="#E0BC75" stroke="#FCFDFE" stroke-width="3"/>
+		</g>
+	</symbol>
+
+	<symbol id="leoStars" viewBox="0 0 167 126" xmlns="http://www.w3.org/2000/svg">
+		<g>
+			<path d="M120.5 41L35.5 64.5L10 116L48 101.5L160 84L147.5 49L120.5 41ZM120.5 41L123.5 23L147.5 4.5L160 13" stroke="#E0BC75" stroke-width="5" />
+			<circle cx="147" cy="50" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="36" cy="65" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="123" cy="23" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="147" cy="5" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="160" cy="13" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="10" cy="116" r="8.5" fill="#E0BC75" stroke="#FCFDFE" stroke-width="3"/>
+			<circle cx="48" cy="101" r="8.5" fill="#E0BC75" stroke="#FCFDFE" stroke-width="3"/>
+			<circle cx="157" cy="85" r="8.5" fill="#E0BC75" stroke="#FCFDFE" stroke-width="3"/>
+		</g>
+	</symbol>
+
+	<symbol id="maidenStars" viewBox="0 0 175 106" xmlns="http://www.w3.org/2000/svg">
+		<g>
+			<path d="M169 99L137 95L104.5 83.5M104.5 83.5L11.5 95L34.5 44L82 47.5M104.5 83.5L82 47.5M82 47.5L89.5 10" stroke="#E0BC75" stroke-width="5" />
+			<circle cx="35" cy="44" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="81" cy="48" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="138" cy="96" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="170" cy="99" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="10" cy="96" r="8.5" fill="#E0BC75" stroke="#FCFDFE" stroke-width="3"/>
+			<circle cx="104" cy="84" r="8.5" fill="#E0BC75" stroke="#FCFDFE" stroke-width="3"/>
+			<circle cx="90" cy="10" r="8.5" fill="#E0BC75" stroke="#FCFDFE" stroke-width="3"/>
+		</g>
+	</symbol>
+
+	<symbol id="libraStars" viewBox="0 0 87 141" xmlns="http://www.w3.org/2000/svg">
+		<g>
+			<path d="M62.5 114.5L80 53M80 53L38.5 9.5L12.5 41.5M80 53L12.5 41.5M12.5 41.5L14.5 117L9.5 130.5" stroke="#E0BC75" stroke-width="5" />
+			<circle cx="63" cy="114" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="13" cy="41" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="14" cy="116" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="39" cy="10" r="8.5" fill="#E0BC75" stroke="#FCFDFE" stroke-width="3"/>
+			<circle cx="77" cy="52" r="8.5" fill="#E0BC75" stroke="#FCFDFE" stroke-width="3"/>
+			<circle cx="10" cy="131" r="8.5" fill="#E0BC75" stroke="#FCFDFE" stroke-width="3"/>
+		</g>
+	</symbol>
+
+	<symbol id="scorpioStars" viewBox="0 0 177 144" xmlns="http://www.w3.org/2000/svg">
+		<g>
+			<path d="M17 77L4 100.5L29.5 137L73 138.5L115 131.5L122.5 100.5L120 77L126 54.5L131.5 43L146 33.5M146 33.5L169.5 19M146 33.5L149.5 5.5M146 33.5L171.5 38.5" stroke="#E0BC75" stroke-width="5" />
+			<circle cx="133" cy="41" r="8.5" fill="#E0BC75" stroke="#FCFDFE" stroke-width="3"/>
+			<circle cx="126" cy="55" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="120" cy="77" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="122" cy="101" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="114" cy="130" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="73" cy="139" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="30" cy="137" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="5" cy="101" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="17" cy="77" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="148" cy="32" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="172" cy="39" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="170" cy="18" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="150" cy="5" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+		</g>
+	</symbol>
+
+	<symbol id="sagittariusStars" viewBox="0 0 162 113" xmlns="http://www.w3.org/2000/svg">
+		<g>
+			<path d="M5 84.5L30 70.5L79 75M79 75L71.5 107.5M79 75L109.5 66.5M109.5 66.5L157 95M109.5 66.5L95.5 42L101 24M101 24L86 5L71.5 16.5M101 24L146.5 5L157 14.5" stroke="#E0BC75" stroke-width="5" />
+			<circle cx="102" cy="24" r="8.5" fill="#E0BC75" stroke="#FCFDFE" stroke-width="3"/>
+			<circle cx="79" cy="75" r="8.5" fill="#E0BC75" stroke="#FCFDFE" stroke-width="3"/>
+			<circle cx="109" cy="66" r="8.5" fill="#E0BC75" stroke="#FCFDFE" stroke-width="3"/>
+			<circle cx="30" cy="70" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="71" cy="108" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="71" cy="17" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="86" cy="5" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="95" cy="42" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="146" cy="5" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="156" cy="14" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="157" cy="95" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="5" cy="85" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+		</g>
+	</symbol>
+
+	<symbol id="capricornStars" viewBox="0 0 192 138" xmlns="http://www.w3.org/2000/svg">
+		<g>
+			<path d="M172.5 29L150.5 62.5L113.5 116.5L101.5 132.5L74 110.5L43.5 77L10.5 25.5L24 29H60.5L104.5 35.5L172.5 29ZM172.5 29L180 10" stroke="#E0BC75" stroke-width="5"/>
+			<circle cx="10" cy="25" r="8.5" fill="#E0BC75" stroke="#FCFDFE" stroke-width="3"/>
+			<circle cx="182" cy="10" r="8.5" fill="#E0BC75" stroke="#FCFDFE" stroke-width="3"/>
+			<circle cx="172" cy="30" r="8.5" fill="#E0BC75" stroke="#FCFDFE" stroke-width="3"/>
+			<circle cx="151" cy="62" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="101" cy="133" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="75" cy="112" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="43" cy="79" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="61" cy="29" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="26" cy="29" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="105" cy="35" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+		</g>
+	</symbol>
+
+	<symbol id="aquariusStars" viewBox="0 0 178 137" xmlns="http://www.w3.org/2000/svg">
+		<g>
+			<path d="M5 130L27.5 96.5L36 76.5L19 43.5L48 6M61.5 6L70 15.5L88.5 9L126.5 33.5L172.5 48" stroke="#E0BC75" stroke-width="5"/>
+			<circle cx="89" cy="10" r="8.5" fill="#E0BC75" stroke="#FCFDFE" stroke-width="3"/>
+			<circle cx="125" cy="34" r="8.5" fill="#E0BC75" stroke="#FCFDFE" stroke-width="3"/>
+			<circle cx="173" cy="49" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="71" cy="15" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="61" cy="5" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="48" cy="5" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="20" cy="44" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="35" cy="76" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="28" cy="96" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="5" cy="132" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+		</g>
+	</symbol>
+
+	<symbol id="piscesStars" viewBox="0 0 191 140" xmlns="http://www.w3.org/2000/svg">
+		<g>
+			<path d="M79 5L68 20.5L75 38V65.5L51.5 82.5L34 103L10 130.5L27 126.5L45 115.5L55 113.5L84 105L96.5 103L108 105L141 108L156 111M156 111L169 105L182 109.5L186.5 122.5L179.5 132.5L167 130.5L156 111Z" stroke="#E0BC75" stroke-width="5" stroke-linecap="square"/>
+			<circle cx="157" cy="111" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="170" cy="105" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="182" cy="109" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="186" cy="122" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="180" cy="133" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="167" cy="130" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="96" cy="103" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="83" cy="105" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="57" cy="113" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="45" cy="116" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="27" cy="127" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="74" cy="64" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="68" cy="20" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="79" cy="5" r="4" fill="#E0BC75" stroke="#FCFDFE" stroke-width="2"/>
+			<circle cx="142" cy="108" r="8.5" fill="#E0BC75" stroke="#FCFDFE" stroke-width="3"/>
+			<circle cx="111" cy="105" r="8.5" fill="#E0BC75" stroke="#FCFDFE" stroke-width="3"/>
+			<circle cx="10" cy="130" r="8.5" fill="#E0BC75" stroke="#FCFDFE" stroke-width="3"/>
+			<circle cx="51" cy="82" r="8.5" fill="#E0BC75" stroke="#FCFDFE" stroke-width="3"/>
+			<circle cx="75" cy="38" r="8.5" fill="#E0BC75" stroke="#FCFDFE" stroke-width="3"/>
 		</g>
 	</symbol>
 </svg>

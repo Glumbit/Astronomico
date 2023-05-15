@@ -247,7 +247,7 @@ body {
 }
 .zodiac:nth-child(6) {
   right: 5%;
-  top: 70%;
+  top: 65%;
 }
 .zodiac:nth-child(7) {
   left: 5%;
@@ -284,7 +284,7 @@ body {
 
 .zodiac__stars {
   width: 100%;
-  height: 100px;
+  height: 120px;
   fill: none;
   overflow: hidden;
   opacity: 0.1;
