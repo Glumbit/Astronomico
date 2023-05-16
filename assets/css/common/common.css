@@ -1,5 +1,6 @@
 .title {
   font-size: 24px;
+  font-style: var(--fontLora);
 }
 
 .bigText {
@@ -9,4 +10,9 @@
 .text {
   font-size: 14px;
   line-height: 22px;
+}
+
+.container {
+  width: 1320px;
+  margin: 0 auto;
 }/*# sourceMappingURL=common.css.map */

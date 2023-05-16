@@ -6,6 +6,12 @@ body {
   color: #ffffff;
   background-color: var(--colorBlack);
 }
+html *,
+body * {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
 
 img {
   display: block;
