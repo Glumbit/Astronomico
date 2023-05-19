@@ -12,16 +12,16 @@ for (const key in sign) {
 
 function showZodiac(sign) {
 	let mark = sign.getAttribute('SignName');
-	const zodiac = document.querySelectorAll('.zodiac');
+	const zodiac = document.querySelectorAll('.zodiac__item');
 	for (const key in zodiac) {
 		if (Object.hasOwnProperty.call(zodiac, key)) {
 			const zodiacEl = zodiac[key];
 			if (zodiacEl.getAttribute('SignMark') == mark) {
-				const zodiacActive = document.querySelector('.zodiac--active');
+				const zodiacActive = document.querySelector('.zodiac__item--active');
 				if (zodiacActive !== null) {
-					zodiacActive.classList.remove('zodiac--active')
+					zodiacActive.classList.remove('zodiac__item--active')
 				}
-				zodiacEl.classList.add('zodiac--active')
+				zodiacEl.classList.add('zodiac__item--active')
 				break
 			}
 		}
